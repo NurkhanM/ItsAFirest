@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">It\'s a forest</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="text_info">Forests are complex biological systems consisting of vegetation (mainly trees), animals, soil, water and other components that exist in a particular climatic zone and have characteristic features and functions. Forest structure includes tree crowns, crowns of young trees and shrubs, herbaceous and shrub layer, and litter and soil. Forest functions include phytosanitary, oxygenation, water regulation, maintenance of biodiversity, economic value and recreational function. Forests are one of the most valuable and vulnerable ecosystems on our planet, and maintaining their ecological integrity plays an important role in sustainable development and biodiversity conservation.</string>
+    <string name="text_fact">Forests cover most of the Earths landmass: Forests cover about 31% of the Earths landmass. This is a vast area that supports many species and plays an important role in maintaining ecological balance.
+
+Tree diversity: There are more than 60,000 known species of trees on Earth. Each species has its own unique characteristics and adaptations to the environment.
+
+Forests as oxygen "factories": Forests are the main source of oxygen on Earth. They produce about 28% of all the oxygen that is present in the atmosphere.
+
+Worlds Tallest Tree: The giant sequoia called Hyperion is the tallest tree in the world. It is over 115 meters tall, which is about twice as tall as the Statue of Liberty in New York City.
+
+Forests as a refuge for biodiversity: Forests provide a home for about 80% of terrestrial biodiversity. They provide habitat for a multitude of animals, plants, insects and microorganisms.
+
+Threats to forests: Forests face a variety of threats, including logging, wildfires, climate change, pollution, and clearing for agriculture or industrial purposes. These threats can seriously affect forest ecosystems and their ability to fulfill important ecological functions.
+
+</string>
+    <string name="text_about">Welcome to our app about forests!
+About our app:
+Our forest app is designed to share amazing facts, interesting stories and useful information about forests around the world.
+Purpose of the app:
+We aim to raise awareness of the importance of forests to our planet and provide users with access to the information they need to conserve and protect forest resources.
+What you will find in our app:
+Interesting facts about forests and their inhabitants.
+Tips on how to care for forests and their environment.
+News and updates about events in the world of forests.
+A gallery of snapshots and images for inspiration.
+Opportunities to share your stories and experiences about forests.
+We appreciate your support:
+Thank you for using our app. Your support helps us continue to spread the word about the importance of preserving and protecting our forests.
+</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
